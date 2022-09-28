@@ -1,5 +1,11 @@
 In this task, we will build a system for buying and selling ice-cream.
 
+## Setup
+1. Fork [this repo](https://github.com/JoinCODED/TASK-Python-Classes).
+2. Clone it in your Development/Foundations directory.
+3. Write the code in `main.py`.
+4. Push your code when you're done.
+
 ## Wallet Class
 
 This class `Wallet` keeps track of money. It has the following properties and methods:
