@@ -91,4 +91,4 @@ class Customer (Person):
 vendor_one = Vendor ("Talal", 3 ,60)
 customer_one = Customer("Abbas", 80, 6)
 
-customer_one._is_in_range(vendor_one)
+customer_one.is_in_range(vendor_one)
